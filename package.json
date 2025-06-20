@@ -1,0 +1,14 @@
+
+{
+  "name": "loadlink-api",
+  "version": "1.0.0",
+  "description": "LoadLink backend API for truckers and shippers",
+  "main": "loadlink_api.js",
+  "scripts": {
+    "start": "node loadlink_api.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "type": "module"
+}
